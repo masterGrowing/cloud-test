@@ -1,1 +1,2 @@
-git@github.com:masterGrowing/cloud-test.git: Auth fail
+config: 
+   info: main branch,springcloud-config/config-dev.yml version=1
